@@ -1,0 +1,111 @@
+{
+   "colDefs": [
+      {
+         "label": "Text Columns",
+         "width": "20%",
+         "type": "text"
+      },
+      {
+         "label": "Input Columns",
+         "width": "20%",
+         "type": "Input"
+      },
+      {
+         "label": "Checkbox Columns",
+         "width": "10%",
+         "type": "Checkbox"
+      },
+      {
+         "label": "Button Columns",
+         "width": "10%",
+         "type": "button"
+      },
+      {
+         "label": "Password Columns",
+         "width": "20%",
+         "type": "password"
+      }
+   ],
+   "data": [
+      {
+         "id": "uniqueRowId1",
+         "colData": [
+            "value1",
+            "value2",
+            false,
+            "button1",
+            "password1"
+         ]
+      },
+      {
+         "id": "uniqueRowId2",
+         "colData": [
+            "value2",
+            "value2",
+            true,
+            "buttton2",
+            "password2"
+         ]
+      },
+      {
+         "id": "uniqueRowId3",
+         "colData": [
+            "value3",
+            "value3",
+            false,
+            "button3",
+            "password3"
+         ]
+      },
+      {
+         "id": "uniqueRowId4",
+         "colData": [
+            "value4",
+            "value4",
+            true,
+            "buttton4",
+            "password4"
+         ]
+      },
+      {
+         "id": "uniqueRowId5",
+         "colData": [
+            "value5",
+            "value5",
+            false,
+            "button5",
+            "password5"
+         ]
+      },
+      {
+         "id": "uniqueRowId6",
+         "colData": [
+            "value6",
+            "value6",
+            true,
+            "buttton6",
+            "password6"
+         ]
+      },
+      {
+         "id": "uniqueRowId7",
+         "colData": [
+            "value7",
+            "value7",
+            false,
+            "button7",
+            "password7"
+         ]
+      },
+      {
+         "id": "uniqueRowId8",
+         "colData": [
+            "value8",
+            "value8",
+            true,
+            "buttton8",
+            "password8"
+         ]
+      }
+   ]
+}
